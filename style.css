@@ -40,3 +40,25 @@ h2{
     background-repeat: no-repeat;
     background-position: right;
 }
+.experience-item{
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 40px 40px 40px 40px;
+}
+.experience-left-banner{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+#experience-design1{
+    border-left: 7px solid;
+    border-image: linear-gradient(tomato,salmon);
+    border-image-slice: 1;
+}
+#experience-design2{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+
